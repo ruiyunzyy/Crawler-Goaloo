@@ -25,3 +25,4 @@ http://info.goaloo.com/jsData/matchResult/赛季/s36_en.js?version=2018021823 �
 1. http://info.goaloo.com/en/SubLeague/297.html 先从这个页面提取第一个子联赛的url
 2. http://info.goaloo.com/jsData/matchResult/2017-2018/s297_188_en.js?version=2018021823 中的arrSubLeague获取所有的子联赛信息，包括子联赛编号、子联赛名等
 3. 构造出所有子联赛的url，获取所有子联赛的信息
+test
